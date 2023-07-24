@@ -1,0 +1,4 @@
+version: 7
+site:
+  - example.com
+password: t54r
